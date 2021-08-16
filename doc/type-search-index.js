@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.insurance.entities","l":"Admin"},{"l":"All Classes","u":"allclasses-index.html"}];updateSearchResults();
